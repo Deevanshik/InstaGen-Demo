@@ -93,7 +93,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--cls_names",
         type=str,
-        default="cycle, person",
+        default="car, bike",
         help="the class names",
     )
     parser.add_argument(
